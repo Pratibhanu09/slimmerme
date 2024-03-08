@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slimmerme/static/css/main.e6c13ad2.css",
+    "main.js": "/slimmerme/static/js/main.3f07b55f.js",
+    "static/js/787.175dfb0e.chunk.js": "/slimmerme/static/js/787.175dfb0e.chunk.js",
+    "index.html": "/slimmerme/index.html",
+    "main.e6c13ad2.css.map": "/slimmerme/static/css/main.e6c13ad2.css.map",
+    "main.3f07b55f.js.map": "/slimmerme/static/js/main.3f07b55f.js.map",
+    "787.175dfb0e.chunk.js.map": "/slimmerme/static/js/787.175dfb0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f07b55f.js"
+  ]
+}
